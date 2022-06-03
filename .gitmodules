@@ -1,0 +1,30 @@
+[submodule "00_boot"]
+	path = 00_boot
+	url = https://github.com/dlmbl/boot
+[submodule "01_intro_ml"]
+	path = 01_intro_ml
+	url = https://github.com/dlmbl/intro_ml
+[submodule "02_intro_dl"]
+	path = 02_intro_dl
+	url = https://github.com/dlmbl/intro_dl
+[submodule "03_image_restoration"]
+	path = 03_image_restoration
+	url = https://github.com/dlmbl/image_restoration
+[submodule "04_image_translation"]
+	path = 04_image_translation
+	url = https://github.com/dlmbl/image_translation
+[submodule "05_image_segmentation"]
+	path = 05_image_segmentation
+	url = https://github.com/dlmbl/image_segmentation
+[submodule "06_failure_modes"]
+	path = 06_failure_modes
+	url = https://github.com/dlmbl/failure_modes
+[submodule "07_instance_segmentation"]
+	path = 07_instance_segmentation
+	url = https://github.com/dlmbl/instance_segmentation
+[submodule "08_tracking"]
+	path = 08_tracking
+	url = https://github.com/dlmbl/tracking
+[submodule "09_knowledge_extraction"]
+	path = 09_knowledge_extraction
+	url = https://github.com/dlmbl/knowledge_extraction
