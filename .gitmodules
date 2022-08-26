@@ -17,10 +17,10 @@
 	path = 05_image_segmentation
 	url = https://github.com/dlmbl/image_segmentation
 [submodule "06_failure_modes"]
-	path = 06_failure_modes
+	path = 07_failure_modes
 	url = https://github.com/dlmbl/failure_modes
 [submodule "07_instance_segmentation"]
-	path = 07_instance_segmentation
+	path = 06_instance_segmentation
 	url = https://github.com/dlmbl/instance_segmentation
 [submodule "08_tracking"]
 	path = 08_tracking
