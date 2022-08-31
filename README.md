@@ -8,6 +8,7 @@ git submodules. To see the exercises, run the following after cloning this
 repository:
 
 ```
+git pull
 git submodule update --init
 ```
 
@@ -15,6 +16,7 @@ This will pull in all the exercises. If you want to see only a specific
 exercise, type
 
 ```
+git pull
 git submodule update --init <path>
 ```
 where `<path>` is the name of the exercise (e.g., `02_intro_dl`).
