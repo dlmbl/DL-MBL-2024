@@ -14,8 +14,8 @@
 	path = 04_image_translation
 	url = https://github.com/dlmbl/image_translation
 [submodule "05_image_segmentation"]
-	path = 05_image_segmentation
-	url = https://github.com/dlmbl/image_segmentation
+	path = 05_semantic_segmentation
+	url = https://github.com/dlmbl/semantic_segmentation
 [submodule "06_failure_modes"]
 	path = 07_failure_modes
 	url = https://github.com/dlmbl/failure_modes
