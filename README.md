@@ -1,7 +1,7 @@
-# DL@MBL 2023 Exercises
+# DL@MBL 2024 Exercises
 
 This repository contains the exercises for the "Deep Learning for Microscopy
-Image Analysis" 2023 course at the MBL in Woods Hole.
+Image Analysis" 2024 course at the MBL in Woods Hole.
 
 This is a "super repository", containing the actual exercise repositories as
 git submodules. To see the exercises, run the following after cloning this
