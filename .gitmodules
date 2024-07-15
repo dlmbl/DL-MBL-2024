@@ -31,3 +31,6 @@
 [submodule "02_unet"]
 	path = 02_unet
 	url = https://github.com/dlmbl/unet
+[submodule "10_best_practices"]
+	path = 10_best_practices
+	url = https://github.com/dlmbl/example-project
